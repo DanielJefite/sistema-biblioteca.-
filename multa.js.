@@ -3,4 +3,5 @@ function calcularMulta(diasAtraso) {
     return 0;
   } return diasAtraso * 2;
 
+
 } console.log(calcularMulta(5)); 
